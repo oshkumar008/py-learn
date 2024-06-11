@@ -1,5 +1,6 @@
 # Fibonacci numbers module
 name = "asdasdad"
+OPENAI_KEY : "kas dkdaksdhkhsdkhaskdhkas6^^7a7s7sad7sadgasj dashd"
 def fib(n):    # write Fibonacci series up to n
     a, b = 0, 1
     while b < n:
